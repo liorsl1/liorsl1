@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lior Shamanov. An aspiring Computer Vision / Deep Learning Expert.
-- 👀 Aside from the above subjects, I'm interested in Physics, Robotics, and.. Philosophy!
+- 👀 Aside from the above topics, I'm interested in Physics, Robotics, and.. Philosophy!
 - 🌱 I'm a Fresh Computer Science Undergraduate (B.Sc.), and worked as an algorithm developer for over a year now.
 - ✨ In this page, Besides introducing myself, I will introduce my own projects in the relevant fields im pursuing.
 - 📫 How to reach me ...
